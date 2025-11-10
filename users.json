@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "userId": "6379761538",
+      "username": "novastoregt",
+      "createdAt": "2025-11-08T12:00:00Z",
+      "accessLimit": 5,
+      "remaining": 5
+    },
+    {
+      "userId": "7109291987",
+      "username": "exampleUser",
+      "createdAt": "2025-11-08T12:30:00Z",
+      "accessLimit": 3,
+      "remaining": 3
+    }
+  ]
+}
